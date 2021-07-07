@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The email was not referring to the pandemic. It was about Sunday’s Democratic presidential debate.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="18~27" text="referring" category="VBG" />
+<VERB id="V2" spans="48~51" text="was" category="VBD" />
+<EVENT_ORDER id="E3" fromID="V1" fromText="referring" toID="V2" toText="was" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“If he — in his political vehicle — if he was telling them this was really serious, you need to take this seriously, you need to understand what social distancing is, you need to stay home, you need to wash your hands, it would be a real benefit,” said Diana Dooley, a former secretary of the California health and human services agency. “He had this opportunity to do that through his political machinery.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="46~53" text="telling" category="VBG" />
+<VERB id="V1" spans="64~67" text="was" category="VBD" />
+<VERB id="V3" spans="96~100" text="take" category="VB" />
+<VERB id="V5" spans="129~139" text="understand" category="VB" />
+<VERB id="V8" spans="179~183" text="stay" category="VB" />
+<VERB id="V10" spans="202~206" text="wash" category="VB" />
+<VERB id="V11" spans="228~230" text="be" category="VB" />
+<VERB id="V12" spans="248~252" text="said" category="VBD" />
+<VERB id="V13" spans="342~345" text="had" category="VBD" />
+<VERB id="V14" spans="366~368" text="do" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="telling" toID="V1" toText="was" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="telling" toID="V3" toText="take" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="telling" toID="V5" toText="understand" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="telling" toID="V8" toText="stay" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="telling" toID="V10" toText="wash" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="telling" toID="V11" toText="be" />
+<EVENT_ORDER id="E11" fromID="V0" fromText="telling" toID="V12" toText="said" />
+<EVENT_ORDER id="E12" fromID="V0" fromText="telling" toID="V13" toText="had" />
+<EVENT_ORDER id="E13" fromID="V0" fromText="telling" toID="V14" toText="do" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="was" toID="V3" toText="take" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="was" toID="V5" toText="understand" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="was" toID="V8" toText="stay" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="was" toID="V10" toText="wash" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="was" toID="V11" toText="be" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="was" toID="V12" toText="said" />
+<EVENT_ORDER id="E25" fromID="V1" fromText="was" toID="V13" toText="had" />
+<EVENT_ORDER id="E26" fromID="V1" fromText="was" toID="V14" toText="do" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="take" toID="V5" toText="understand" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="take" toID="V8" toText="stay" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="take" toID="V10" toText="wash" />
+<EVENT_ORDER id="E46" fromID="V3" fromText="take" toID="V11" toText="be" />
+<EVENT_ORDER id="E47" fromID="V3" fromText="take" toID="V12" toText="said" />
+<EVENT_ORDER id="E48" fromID="V3" fromText="take" toID="V13" toText="had" />
+<EVENT_ORDER id="E49" fromID="V3" fromText="take" toID="V14" toText="do" />
+<EVENT_ORDER id="E62" fromID="V5" fromText="understand" toID="V8" toText="stay" />
+<EVENT_ORDER id="E64" fromID="V5" fromText="understand" toID="V10" toText="wash" />
+<EVENT_ORDER id="E65" fromID="V5" fromText="understand" toID="V11" toText="be" />
+<EVENT_ORDER id="E66" fromID="V5" fromText="understand" toID="V12" toText="said" />
+<EVENT_ORDER id="E67" fromID="V5" fromText="understand" toID="V13" toText="had" />
+<EVENT_ORDER id="E68" fromID="V5" fromText="understand" toID="V14" toText="do" />
+<EVENT_ORDER id="E85" fromID="V8" fromText="stay" toID="V10" toText="wash" />
+<EVENT_ORDER id="E86" fromID="V8" fromText="stay" toID="V11" toText="be" />
+<EVENT_ORDER id="E87" fromID="V8" fromText="stay" toID="V12" toText="said" />
+<EVENT_ORDER id="E88" fromID="V8" fromText="stay" toID="V13" toText="had" />
+<EVENT_ORDER id="E89" fromID="V8" fromText="stay" toID="V14" toText="do" />
+<EVENT_ORDER id="E95" fromID="V10" fromText="wash" toID="V11" toText="be" />
+<EVENT_ORDER id="E96" fromID="V10" fromText="wash" toID="V12" toText="said" />
+<EVENT_ORDER id="E97" fromID="V10" fromText="wash" toID="V13" toText="had" />
+<EVENT_ORDER id="E98" fromID="V10" fromText="wash" toID="V14" toText="do" />
+<EVENT_ORDER id="E99" fromID="V11" fromText="be" toID="V12" toText="said" />
+<EVENT_ORDER id="E100" fromID="V11" fromText="be" toID="V13" toText="had" />
+<EVENT_ORDER id="E101" fromID="V11" fromText="be" toID="V14" toText="do" />
+<EVENT_ORDER id="E102" fromID="V12" fromText="said" toID="V13" toText="had" />
+<EVENT_ORDER id="E103" fromID="V12" fromText="said" toID="V14" toText="do" />
+<EVENT_ORDER id="E104" fromID="V13" fromText="had" toID="V14" toText="do" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“She’s strong, she’s articulate, she just makes a lot of sense,” said Rich Gipson, a retired teacher from Merced, Calif., who called himself a fan of Ms. Harris’s. “She’s on top of the list. Coming from California, she is naturally going to become a leader of the country.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="42~47" text="makes" category="VBZ" />
+<VERB id="V1" spans="65~69" text="said" category="VBD" />
+<VERB id="V2" spans="126~132" text="called" category="VBD" />
+<VERB id="V3" spans="191~197" text="Coming" category="VBG" />
+<VERB id="V6" spans="241~247" text="become" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="makes" toID="V1" toText="said" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="makes" toID="V2" toText="called" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="makes" toID="V3" toText="Coming" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="makes" toID="V6" toText="become" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="said" toID="V2" toText="called" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="said" toID="V3" toText="Coming" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="said" toID="V6" toText="become" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="called" toID="V3" toText="Coming" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="called" toID="V6" toText="become" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="Coming" toID="V6" toText="become" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[It’s really two distinct crises the Fed is trying to solve, with overlapping tools.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="43~49" text="trying" category="VBG" />
+<VERB id="V2" spans="53~58" text="solve" category="VB" />
+<EVENT_ORDER id="E2" fromID="V1" fromText="trying" toID="V2" toText="solve" />
+</TAGS>
+</TemporalRelationTask>

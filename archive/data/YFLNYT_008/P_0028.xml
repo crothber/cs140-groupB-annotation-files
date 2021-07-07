@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“It’s not big enough, it’s not bold enough,” said Senator Doug Jones, Democrat of Alabama. “It doesn’t get to the cities, into the communities. It doesn’t get to individuals. It’s a start, but it is not there — it’s not even half a loaf, it’s a couple of slices.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="4~5" text="s" category="VBZ" />
+<VERB id="V2" spans="45~49" text="said" category="VBD" />
+<VERB id="V5" spans="196~198" text="is" category="VBZ" />
+<VERB id="V6" spans="214~215" text="s" category="VBZ" />
+<VERB id="V7" spans="241~242" text="s" category="VBZ" />
+<VERB id="V8" spans="25~26" text="s" category="VBZ" />
+<VERB id="V9" spans="103~106" text="get" category="VB" />
+<VERB id="V10" spans="155~158" text="get" category="VB" />
+<VERB id="V11" spans="178~179" text="s" category="VBZ" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="s" toID="V2" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="s" toID="V5" toText="is" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="s" toID="V6" toText="s" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="s" toID="V7" toText="s" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="said" toID="V5" toText="is" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="said" toID="V6" toText="s" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="said" toID="V7" toText="s" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="is" toID="V6" toText="s" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="is" toID="V7" toText="s" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="s" toID="V7" toText="s" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“He doesn’t talk about it very much, and he doesn’t talk about it very convincingly,” she said.]]></TEXT>
+<TAGS>
+<VERB id="V2" spans="90~94" text="said" category="VBD" />
+</TAGS>
+</TemporalRelationTask>

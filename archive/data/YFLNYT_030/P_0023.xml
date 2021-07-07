@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Maggie Thomas, who was Mr. Inslee’s deputy climate change director before joining Senator Warren’s campaign, has not yet thrown her support behind either Mr. Sanders or Mr. Biden. But she said if Mr. Biden does become the Democratic nominee, “He really needs to show that this is a priority for his campaign.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="19~22" text="was" category="VBD" />
+<VERB id="V2" spans="74~81" text="joining" category="VBG" />
+<VERB id="V4" spans="188~192" text="said" category="VBD" />
+<VERB id="V5" spans="211~217" text="become" category="VB" />
+<VERB id="V6" spans="253~258" text="needs" category="VBZ" />
+<VERB id="V7" spans="262~266" text="show" category="VB" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="joining" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="was" toID="V4" toText="said" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="was" toID="V5" toText="become" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="was" toID="V6" toText="needs" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="was" toID="V7" toText="show" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="joining" toID="V4" toText="said" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="joining" toID="V5" toText="become" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="joining" toID="V6" toText="needs" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="joining" toID="V7" toText="show" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="said" toID="V5" toText="become" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="said" toID="V6" toText="needs" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="said" toID="V7" toText="show" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="become" toID="V6" toText="needs" />
+<EVENT_ORDER id="E31" fromID="V5" fromText="become" toID="V7" toText="show" />
+<EVENT_ORDER id="E33" fromID="V6" fromText="needs" toID="V7" toText="show" />
+</TAGS>
+</TemporalRelationTask>

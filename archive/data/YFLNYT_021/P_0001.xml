@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The president is brazenly grabbing his only clear option to bolster his re-election hopes, portraying himself as a take-charge leader the country can’t afford to lose.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="26~34" text="grabbing" category="VBG" />
+<VERB id="V2" spans="60~67" text="bolster" category="VB" />
+<VERB id="V3" spans="91~101" text="portraying" category="VBG" />
+<VERB id="V4" spans="162~166" text="lose" category="VB" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="grabbing" toID="V2" toText="bolster" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="grabbing" toID="V3" toText="portraying" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="grabbing" toID="V4" toText="lose" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="bolster" toID="V3" toText="portraying" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="bolster" toID="V4" toText="lose" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="portraying" toID="V4" toText="lose" />
+</TAGS>
+</TemporalRelationTask>

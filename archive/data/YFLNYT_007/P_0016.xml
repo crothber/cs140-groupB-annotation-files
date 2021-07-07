@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Trump’s likely opponent in the coming presidential election, former Vice President Joseph R. Biden Jr., said the administration’s effort was coming too late.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="35~41" text="coming" category="VBG" />
+<VERB id="V2" spans="108~112" text="said" category="VBD" />
+<VERB id="V4" spans="145~151" text="coming" category="VBG" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="coming" toID="V2" toText="said" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="coming" toID="V4" toText="coming" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="said" toID="V4" toText="coming" />
+</TAGS>
+</TemporalRelationTask>

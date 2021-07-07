@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[For Dr. Gauri Khurana, a psychiatrist who works predominantly with college students, the coronavirus questions began as a trickle from patients with family in China. In recent weeks, it’s become a flood of anxious phone calls from young people wondering about how they’ll complete graduation requirements or whether they might be infected.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="42~47" text="works" category="VBZ" />
+<VERB id="V1" spans="111~116" text="began" category="VBD" />
+<VERB id="V2" spans="188~194" text="become" category="VBN" />
+<VERB id="V3" spans="244~253" text="wondering" category="VBG" />
+<VERB id="V4" spans="330~338" text="infected" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="works" toID="V1" toText="began" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="works" toID="V2" toText="become" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="works" toID="V3" toText="wondering" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="works" toID="V4" toText="infected" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="began" toID="V2" toText="become" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="began" toID="V3" toText="wondering" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="began" toID="V4" toText="infected" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="become" toID="V3" toText="wondering" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="become" toID="V4" toText="infected" />
+<EVENT_ORDER id="E9" fromID="V3" fromText="wondering" toID="V4" toText="infected" />
+</TAGS>
+</TemporalRelationTask>

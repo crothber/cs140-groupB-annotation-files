@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Having missed a self-imposed deadline at 5 p.m. Saturday to strike an agreement with Democrats, Republicans began drafting and circulating their own text on Sunday, which was obtained by The New York Times.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="7~13" text="missed" category="VBN" />
+<VERB id="V2" spans="60~66" text="strike" category="VB" />
+<VERB id="V4" spans="114~122" text="drafting" category="VBG" />
+<VERB id="V5" spans="127~138" text="circulating" category="VBG" />
+<VERB id="V6" spans="175~183" text="obtained" category="VBN" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="missed" toID="V2" toText="strike" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="missed" toID="V4" toText="drafting" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="missed" toID="V5" toText="circulating" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="missed" toID="V6" toText="obtained" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="strike" toID="V4" toText="drafting" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="strike" toID="V5" toText="circulating" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="strike" toID="V6" toText="obtained" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="drafting" toID="V5" toText="circulating" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="drafting" toID="V6" toText="obtained" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="circulating" toID="V6" toText="obtained" />
+</TAGS>
+</TemporalRelationTask>

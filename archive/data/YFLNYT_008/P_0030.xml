@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“There’s more political risk if we don’t get the message to Senator McConnell that we need to get this done,” Mr. Jones said. “That’s where the political risks are.”]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="41~44" text="get" category="VB" />
+<VERB id="V2" spans="86~90" text="need" category="VBP" />
+<VERB id="V3" spans="94~97" text="get" category="VB" />
+<VERB id="V4" spans="103~107" text="done" category="VBN" />
+<VERB id="V5" spans="120~124" text="said" category="VBD" />
+<VERB id="V6" spans="160~163" text="are" category="VBP" />
+<VERB id="V7" spans="7~8" text="s" category="VBZ" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="get" toID="V2" toText="need" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="get" toID="V3" toText="get" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="get" toID="V4" toText="done" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="get" toID="V5" toText="said" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="get" toID="V6" toText="are" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="need" toID="V3" toText="get" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="need" toID="V4" toText="done" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="need" toID="V5" toText="said" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="need" toID="V6" toText="are" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="get" toID="V4" toText="done" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="get" toID="V5" toText="said" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="get" toID="V6" toText="are" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="done" toID="V5" toText="said" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="done" toID="V6" toText="are" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="said" toID="V6" toText="are" />
+</TAGS>
+</TemporalRelationTask>

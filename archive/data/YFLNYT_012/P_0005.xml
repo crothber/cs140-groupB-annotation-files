@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Still, in his messages to core supporters, Trump has hardly spoken about the virus at all. He has mentioned it only in one fund-raising email and text message (a week ago, linking to C.D.C. guidance), instead sticking to his typical strategy of attacking Democrats and the media. Joe Biden and Bernie Sanders, meanwhile, have repeatedly discussed the virus in messages to supporters.]]></TEXT>
+<TAGS>
+<VERB id="V2" spans="60~66" text="spoken" category="VBN" />
+<VERB id="V3" spans="98~107" text="mentioned" category="VBN" />
+<VERB id="V4" spans="172~179" text="linking" category="VBG" />
+<VERB id="V5" spans="209~217" text="sticking" category="VBG" />
+<VERB id="V6" spans="245~254" text="attacking" category="VBG" />
+<VERB id="V8" spans="337~346" text="discussed" category="VBN" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="spoken" toID="V3" toText="mentioned" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="spoken" toID="V4" toText="linking" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="spoken" toID="V5" toText="sticking" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="spoken" toID="V6" toText="attacking" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="spoken" toID="V8" toText="discussed" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="mentioned" toID="V4" toText="linking" />
+<EVENT_ORDER id="E22" fromID="V3" fromText="mentioned" toID="V5" toText="sticking" />
+<EVENT_ORDER id="E23" fromID="V3" fromText="mentioned" toID="V6" toText="attacking" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="mentioned" toID="V8" toText="discussed" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="linking" toID="V5" toText="sticking" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="linking" toID="V6" toText="attacking" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="linking" toID="V8" toText="discussed" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="sticking" toID="V6" toText="attacking" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="sticking" toID="V8" toText="discussed" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="attacking" toID="V8" toText="discussed" />
+</TAGS>
+</TemporalRelationTask>

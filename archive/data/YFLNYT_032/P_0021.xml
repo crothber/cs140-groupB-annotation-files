@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[For his part, Mr. Kasich is making the most of his home-state convention, though he is not scheduled to speak. With the governor under attack by Mr. Trump’s campaign for not endorsing the party’s standard-bearer, allies of Mr. Kasich struck back aggressively in a way that could well position him for the future with the many Trump skeptics in the party’s ranks.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="28~34" text="making" category="VBG" />
+<VERB id="V2" spans="91~100" text="scheduled" category="VBN" />
+<VERB id="V3" spans="104~109" text="speak" category="VB" />
+<VERB id="V5" spans="174~183" text="endorsing" category="VBG" />
+<VERB id="V6" spans="234~240" text="struck" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="making" toID="V2" toText="scheduled" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="making" toID="V3" toText="speak" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="making" toID="V5" toText="endorsing" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="making" toID="V6" toText="struck" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="scheduled" toID="V3" toText="speak" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="scheduled" toID="V5" toText="endorsing" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="scheduled" toID="V6" toText="struck" />
+<EVENT_ORDER id="E19" fromID="V3" fromText="speak" toID="V5" toText="endorsing" />
+<EVENT_ORDER id="E20" fromID="V3" fromText="speak" toID="V6" toText="struck" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="endorsing" toID="V6" toText="struck" />
+</TAGS>
+</TemporalRelationTask>

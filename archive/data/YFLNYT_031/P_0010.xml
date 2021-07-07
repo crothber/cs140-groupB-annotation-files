@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden also indicated that he was giving serious thought to his potential future running mate, saying that he must “start that vetting process relatively soon, meaning in a matter of weeks.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="15~24" text="indicated" category="VBD" />
+<VERB id="V1" spans="37~43" text="giving" category="VBG" />
+<VERB id="V4" spans="98~104" text="saying" category="VBG" />
+<VERB id="V5" spans="130~137" text="vetting" category="VBG" />
+<VERB id="V6" spans="163~170" text="meaning" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="indicated" toID="V1" toText="giving" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="indicated" toID="V4" toText="saying" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="indicated" toID="V5" toText="vetting" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="indicated" toID="V6" toText="meaning" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="giving" toID="V4" toText="saying" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="giving" toID="V5" toText="vetting" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="giving" toID="V6" toText="meaning" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="saying" toID="V5" toText="vetting" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="saying" toID="V6" toText="meaning" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="vetting" toID="V6" toText="meaning" />
+</TAGS>
+</TemporalRelationTask>

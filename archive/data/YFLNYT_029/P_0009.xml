@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[In addition, the coronavirus pandemic has put on hold indefinitely Mr. Biden’s ability to host in-person fund-raisers and is widely expected to sharply slow the pace of small online donations, as well.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="42~45" text="put" category="VBN" />
+<VERB id="V2" spans="90~94" text="host" category="VB" />
+<VERB id="V4" spans="132~140" text="expected" category="VBN" />
+<VERB id="V5" spans="152~156" text="slow" category="VB" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="put" toID="V2" toText="host" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="put" toID="V4" toText="expected" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="put" toID="V5" toText="slow" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="host" toID="V4" toText="expected" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="host" toID="V5" toText="slow" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="expected" toID="V5" toText="slow" />
+</TAGS>
+</TemporalRelationTask>

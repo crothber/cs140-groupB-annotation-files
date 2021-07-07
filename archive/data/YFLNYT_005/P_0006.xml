@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[If Mr. Trump has used appearances in the White House briefing room this week to warn about the seriousness of the spreading coronavirus, the Trump campaign’s wide-reaching digital arm has mostly charged forward in email communications with supporters as if it were still operating in a virus-free world.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="17~21" text="used" category="VBN" />
+<VERB id="V1" spans="80~84" text="warn" category="VB" />
+<VERB id="V2" spans="114~123" text="spreading" category="VBG" />
+<VERB id="V5" spans="195~202" text="charged" category="VBN" />
+<VERB id="V7" spans="271~280" text="operating" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="used" toID="V1" toText="warn" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="used" toID="V2" toText="spreading" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="used" toID="V5" toText="charged" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="used" toID="V7" toText="operating" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="warn" toID="V2" toText="spreading" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="warn" toID="V5" toText="charged" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="warn" toID="V7" toText="operating" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="spreading" toID="V5" toText="charged" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="spreading" toID="V7" toText="operating" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="charged" toID="V7" toText="operating" />
+</TAGS>
+</TemporalRelationTask>

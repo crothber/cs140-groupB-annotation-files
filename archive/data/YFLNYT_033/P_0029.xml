@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Unlike any nominee since Mr. Gore, Mr. Biden has a unique view into the selection process, having gone through it himself. While Mr. Obama started with a list of 20 candidates, he faced pressure to select Mrs. Clinton as his running mate and create a “unity ticket.” After Mr. Obama rejected that idea, the choice came down to a “coin toss” between Mr. Biden and Senator Evan Bayh of Indiana. Mr. Biden was more energetic and enthusiastic in his interview, according to aides.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="45~48" text="has" category="VBZ" />
+<VERB id="V2" spans="98~102" text="gone" category="VBN" />
+<VERB id="V3" spans="139~146" text="started" category="VBD" />
+<VERB id="V4" spans="180~185" text="faced" category="VBD" />
+<VERB id="V5" spans="198~204" text="select" category="VB" />
+<VERB id="V7" spans="242~248" text="create" category="VB" />
+<VERB id="V8" spans="283~291" text="rejected" category="VBD" />
+<VERB id="V9" spans="314~318" text="came" category="VBD" />
+<VERB id="V10" spans="403~406" text="was" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="has" toID="V2" toText="gone" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="has" toID="V3" toText="started" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="has" toID="V4" toText="faced" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="has" toID="V5" toText="select" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="has" toID="V7" toText="create" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="has" toID="V8" toText="rejected" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="has" toID="V9" toText="came" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="has" toID="V10" toText="was" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="gone" toID="V3" toText="started" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="gone" toID="V4" toText="faced" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="gone" toID="V5" toText="select" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="gone" toID="V7" toText="create" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="gone" toID="V8" toText="rejected" />
+<EVENT_ORDER id="E27" fromID="V2" fromText="gone" toID="V9" toText="came" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="gone" toID="V10" toText="was" />
+<EVENT_ORDER id="E30" fromID="V3" fromText="started" toID="V4" toText="faced" />
+<EVENT_ORDER id="E31" fromID="V3" fromText="started" toID="V5" toText="select" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="started" toID="V7" toText="create" />
+<EVENT_ORDER id="E34" fromID="V3" fromText="started" toID="V8" toText="rejected" />
+<EVENT_ORDER id="E35" fromID="V3" fromText="started" toID="V9" toText="came" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="started" toID="V10" toText="was" />
+<EVENT_ORDER id="E38" fromID="V4" fromText="faced" toID="V5" toText="select" />
+<EVENT_ORDER id="E40" fromID="V4" fromText="faced" toID="V7" toText="create" />
+<EVENT_ORDER id="E41" fromID="V4" fromText="faced" toID="V8" toText="rejected" />
+<EVENT_ORDER id="E42" fromID="V4" fromText="faced" toID="V9" toText="came" />
+<EVENT_ORDER id="E43" fromID="V4" fromText="faced" toID="V10" toText="was" />
+<EVENT_ORDER id="E46" fromID="V5" fromText="select" toID="V7" toText="create" />
+<EVENT_ORDER id="E47" fromID="V5" fromText="select" toID="V8" toText="rejected" />
+<EVENT_ORDER id="E48" fromID="V5" fromText="select" toID="V9" toText="came" />
+<EVENT_ORDER id="E49" fromID="V5" fromText="select" toID="V10" toText="was" />
+<EVENT_ORDER id="E56" fromID="V7" fromText="create" toID="V8" toText="rejected" />
+<EVENT_ORDER id="E57" fromID="V7" fromText="create" toID="V9" toText="came" />
+<EVENT_ORDER id="E58" fromID="V7" fromText="create" toID="V10" toText="was" />
+<EVENT_ORDER id="E60" fromID="V8" fromText="rejected" toID="V9" toText="came" />
+<EVENT_ORDER id="E61" fromID="V8" fromText="rejected" toID="V10" toText="was" />
+<EVENT_ORDER id="E63" fromID="V9" fromText="came" toID="V10" toText="was" />
+</TAGS>
+</TemporalRelationTask>

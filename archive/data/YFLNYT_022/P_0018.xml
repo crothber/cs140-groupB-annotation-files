@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Michael Shnayerson, the author of “The Contender,” a 2015 biography of Mr. Cuomo, said that “there isn’t a Democrat of his generation who has a better résumé for president than Andrew Cuomo.” He cited the governor’s experience working for his father’s campaigns, a stint as federal housing secretary and a term as New York attorney general. But, he added, Mr. Cuomo’s bare-fisted political style also sometimes suggests “a dark, Nixonian character, harsh and vindictive.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="82~86" text="said" category="VBD" />
+<VERB id="V1" spans="138~141" text="has" category="VBZ" />
+<VERB id="V2" spans="195~200" text="cited" category="VBD" />
+<VERB id="V4" spans="227~234" text="working" category="VBG" />
+<VERB id="V5" spans="349~354" text="added" category="VBD" />
+<VERB id="V7" spans="411~419" text="suggests" category="VBZ" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="said" toID="V1" toText="has" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="said" toID="V2" toText="cited" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="said" toID="V4" toText="working" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="said" toID="V5" toText="added" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="said" toID="V7" toText="suggests" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="has" toID="V2" toText="cited" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="has" toID="V4" toText="working" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="has" toID="V5" toText="added" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="has" toID="V7" toText="suggests" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="cited" toID="V4" toText="working" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="cited" toID="V5" toText="added" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="cited" toID="V7" toText="suggests" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="working" toID="V5" toText="added" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="working" toID="V7" toText="suggests" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="added" toID="V7" toText="suggests" />
+</TAGS>
+</TemporalRelationTask>

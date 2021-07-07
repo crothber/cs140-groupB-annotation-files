@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“I don’t think a lot of them have primary care doctors and at this point everyone is terrified, wondering what’s going to happen,” she said. “I have patients that want to drop out of school, move to Canada. They’re grateful for any advice, especially coming from a doctor because there’s so much misinformation.”]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="9~14" text="think" category="VBP" />
+<VERB id="V2" spans="29~33" text="have" category="VBP" />
+<VERB id="V3" spans="85~94" text="terrified" category="VBN" />
+<VERB id="V4" spans="96~105" text="wondering" category="VBG" />
+<VERB id="V7" spans="122~128" text="happen" category="VB" />
+<VERB id="V8" spans="135~139" text="said" category="VBD" />
+<VERB id="V9" spans="144~148" text="have" category="VBP" />
+<VERB id="V10" spans="163~167" text="want" category="VBP" />
+<VERB id="V11" spans="171~175" text="drop" category="VB" />
+<VERB id="V12" spans="191~195" text="move" category="VBP" />
+<VERB id="V13" spans="251~257" text="coming" category="VBG" />
+<VERB id="V14" spans="212~214" text="re" category="VBP" />
+<VERB id="V15" spans="286~287" text="s" category="VBZ" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="think" toID="V2" toText="have" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="think" toID="V3" toText="terrified" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="think" toID="V4" toText="wondering" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="think" toID="V7" toText="happen" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="think" toID="V8" toText="said" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="think" toID="V9" toText="have" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="think" toID="V10" toText="want" />
+<EVENT_ORDER id="E22" fromID="V1" fromText="think" toID="V11" toText="drop" />
+<EVENT_ORDER id="E23" fromID="V1" fromText="think" toID="V12" toText="move" />
+<EVENT_ORDER id="E24" fromID="V1" fromText="think" toID="V13" toText="coming" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="have" toID="V3" toText="terrified" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="have" toID="V4" toText="wondering" />
+<EVENT_ORDER id="E29" fromID="V2" fromText="have" toID="V7" toText="happen" />
+<EVENT_ORDER id="E30" fromID="V2" fromText="have" toID="V8" toText="said" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="have" toID="V9" toText="have" />
+<EVENT_ORDER id="E32" fromID="V2" fromText="have" toID="V10" toText="want" />
+<EVENT_ORDER id="E33" fromID="V2" fromText="have" toID="V11" toText="drop" />
+<EVENT_ORDER id="E34" fromID="V2" fromText="have" toID="V12" toText="move" />
+<EVENT_ORDER id="E35" fromID="V2" fromText="have" toID="V13" toText="coming" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="terrified" toID="V4" toText="wondering" />
+<EVENT_ORDER id="E39" fromID="V3" fromText="terrified" toID="V7" toText="happen" />
+<EVENT_ORDER id="E40" fromID="V3" fromText="terrified" toID="V8" toText="said" />
+<EVENT_ORDER id="E41" fromID="V3" fromText="terrified" toID="V9" toText="have" />
+<EVENT_ORDER id="E42" fromID="V3" fromText="terrified" toID="V10" toText="want" />
+<EVENT_ORDER id="E43" fromID="V3" fromText="terrified" toID="V11" toText="drop" />
+<EVENT_ORDER id="E44" fromID="V3" fromText="terrified" toID="V12" toText="move" />
+<EVENT_ORDER id="E45" fromID="V3" fromText="terrified" toID="V13" toText="coming" />
+<EVENT_ORDER id="E48" fromID="V4" fromText="wondering" toID="V7" toText="happen" />
+<EVENT_ORDER id="E49" fromID="V4" fromText="wondering" toID="V8" toText="said" />
+<EVENT_ORDER id="E50" fromID="V4" fromText="wondering" toID="V9" toText="have" />
+<EVENT_ORDER id="E51" fromID="V4" fromText="wondering" toID="V10" toText="want" />
+<EVENT_ORDER id="E52" fromID="V4" fromText="wondering" toID="V11" toText="drop" />
+<EVENT_ORDER id="E53" fromID="V4" fromText="wondering" toID="V12" toText="move" />
+<EVENT_ORDER id="E54" fromID="V4" fromText="wondering" toID="V13" toText="coming" />
+<EVENT_ORDER id="E70" fromID="V7" fromText="happen" toID="V8" toText="said" />
+<EVENT_ORDER id="E71" fromID="V7" fromText="happen" toID="V9" toText="have" />
+<EVENT_ORDER id="E72" fromID="V7" fromText="happen" toID="V10" toText="want" />
+<EVENT_ORDER id="E73" fromID="V7" fromText="happen" toID="V11" toText="drop" />
+<EVENT_ORDER id="E74" fromID="V7" fromText="happen" toID="V12" toText="move" />
+<EVENT_ORDER id="E75" fromID="V7" fromText="happen" toID="V13" toText="coming" />
+<EVENT_ORDER id="E76" fromID="V8" fromText="said" toID="V9" toText="have" />
+<EVENT_ORDER id="E77" fromID="V8" fromText="said" toID="V10" toText="want" />
+<EVENT_ORDER id="E78" fromID="V8" fromText="said" toID="V11" toText="drop" />
+<EVENT_ORDER id="E79" fromID="V8" fromText="said" toID="V12" toText="move" />
+<EVENT_ORDER id="E80" fromID="V8" fromText="said" toID="V13" toText="coming" />
+<EVENT_ORDER id="E81" fromID="V9" fromText="have" toID="V10" toText="want" />
+<EVENT_ORDER id="E82" fromID="V9" fromText="have" toID="V11" toText="drop" />
+<EVENT_ORDER id="E83" fromID="V9" fromText="have" toID="V12" toText="move" />
+<EVENT_ORDER id="E84" fromID="V9" fromText="have" toID="V13" toText="coming" />
+<EVENT_ORDER id="E85" fromID="V10" fromText="want" toID="V11" toText="drop" />
+<EVENT_ORDER id="E86" fromID="V10" fromText="want" toID="V12" toText="move" />
+<EVENT_ORDER id="E87" fromID="V10" fromText="want" toID="V13" toText="coming" />
+<EVENT_ORDER id="E88" fromID="V11" fromText="drop" toID="V12" toText="move" />
+<EVENT_ORDER id="E89" fromID="V11" fromText="drop" toID="V13" toText="coming" />
+<EVENT_ORDER id="E90" fromID="V12" fromText="move" toID="V13" toText="coming" />
+</TAGS>
+</TemporalRelationTask>

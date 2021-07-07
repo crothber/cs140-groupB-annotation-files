@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[At Sunday’s virtual fund-raiser, Mr. Biden addressed speculation about whether Mr. Trump would try to postpone the general election because of the coronavirus. (The president does not have that authority.)]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="43~52" text="addressed" category="VBD" />
+<VERB id="V2" spans="95~98" text="try" category="VB" />
+<VERB id="V3" spans="102~110" text="postpone" category="VB" />
+<VERB id="V5" spans="184~188" text="have" category="VB" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="addressed" toID="V2" toText="try" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="addressed" toID="V3" toText="postpone" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="addressed" toID="V5" toText="have" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="try" toID="V3" toText="postpone" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="try" toID="V5" toText="have" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="postpone" toID="V5" toText="have" />
+</TAGS>
+</TemporalRelationTask>

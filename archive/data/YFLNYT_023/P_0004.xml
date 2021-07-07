@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“People want to take back control of their countries,” he added, “and they want to take back control of their lives.”]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="16~20" text="take" category="VB" />
+<VERB id="V2" spans="58~63" text="added" category="VBD" />
+<VERB id="V4" spans="83~87" text="take" category="VB" />
+<EVENT_ORDER id="E4" fromID="V1" fromText="take" toID="V2" toText="added" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="take" toID="V4" toText="take" />
+<EVENT_ORDER id="E8" fromID="V2" fromText="added" toID="V4" toText="take" />
+</TAGS>
+</TemporalRelationTask>

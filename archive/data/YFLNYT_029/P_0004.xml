@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Outgunned on the airwaves and out-organized on the ground, Mr. Biden’s campaign succeeded in large part because of the overwhelming focus of Democratic voters on beating President Trump and the firm belief among many that Mr. Biden would be the party’s strongest challenger.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~9" text="Outgunned" category="VBN" />
+<VERB id="V2" spans="80~89" text="succeeded" category="VBD" />
+<VERB id="V3" spans="162~169" text="beating" category="VBG" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Outgunned" toID="V2" toText="succeeded" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Outgunned" toID="V3" toText="beating" />
+<EVENT_ORDER id="E7" fromID="V2" fromText="succeeded" toID="V3" toText="beating" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[PHILADELPHIA — Twelve years ago Wednesday in Boston, it was Senator John Kerry’s presidential convention. But it was Barack Obama’s night.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="56~59" text="was" category="VBD" />
+<VERB id="V2" spans="113~116" text="was" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="was" toID="V2" toText="was" />
+</TAGS>
+</TemporalRelationTask>

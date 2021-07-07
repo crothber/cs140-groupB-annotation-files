@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[And he has repeatedly made inaccurate claims about everything from the availability of testing kits and face masks to the timeline for a coronavirus vaccine that task force members standing behind him have sometimes felt compelled to later correct.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="22~26" text="made" category="VBN" />
+<VERB id="V2" spans="87~94" text="testing" category="VBG" />
+<VERB id="V4" spans="181~189" text="standing" category="VBG" />
+<VERB id="V6" spans="216~220" text="felt" category="VBN" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="made" toID="V2" toText="testing" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="made" toID="V4" toText="standing" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="made" toID="V6" toText="felt" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="testing" toID="V4" toText="standing" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="testing" toID="V6" toText="felt" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="standing" toID="V6" toText="felt" />
+</TAGS>
+</TemporalRelationTask>

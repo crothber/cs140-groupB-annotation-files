@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[The recriminations have spread to Mr. Paul’s own Washington office.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="24~30" text="spread" category="VBN" />
+</TAGS>
+</TemporalRelationTask>

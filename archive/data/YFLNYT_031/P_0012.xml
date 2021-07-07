@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Mr. Biden’s remaining opponent in the primary race, Senator Bernie Sanders of Vermont, has also shifted to campaigning virtually. Mr. Sanders held a live-streamed event on the coronavirus from Burlington, Vt., on Sunday, one of several such events he has done in recent days.]]></TEXT>
+<TAGS>
+<VERB id="V3" spans="96~103" text="shifted" category="VBN" />
+<VERB id="V4" spans="107~118" text="campaigning" category="VBG" />
+<VERB id="V5" spans="142~146" text="held" category="VBD" />
+<VERB id="V6" spans="255~259" text="done" category="VBN" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="shifted" toID="V4" toText="campaigning" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="shifted" toID="V5" toText="held" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="shifted" toID="V6" toText="done" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="campaigning" toID="V5" toText="held" />
+<EVENT_ORDER id="E19" fromID="V4" fromText="campaigning" toID="V6" toText="done" />
+<EVENT_ORDER id="E20" fromID="V5" fromText="held" toID="V6" toText="done" />
+</TAGS>
+</TemporalRelationTask>

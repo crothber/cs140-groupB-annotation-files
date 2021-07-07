@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Just because you embrace some of Bernie’s progressive agenda,” Mr. Tulchin said, “doesn’t mean you can carry Bernie’s mantle.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="18~25" text="embrace" category="VBP" />
+<VERB id="V2" spans="76~80" text="said" category="VBD" />
+<VERB id="V4" spans="104~109" text="carry" category="VB" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="embrace" toID="V2" toText="said" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="embrace" toID="V4" toText="carry" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="said" toID="V4" toText="carry" />
+</TAGS>
+</TemporalRelationTask>

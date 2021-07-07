@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[HOLLYWOOD, Fla. — They were both yelling.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="33~40" text="yelling" category="VBG" />
+</TAGS>
+</TemporalRelationTask>

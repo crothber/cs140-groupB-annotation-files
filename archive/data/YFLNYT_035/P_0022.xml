@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Had people not marched and shouted, most of us wouldn’t be here this morning,” she said, repeating her story about her parents having been protesters.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="16~23" text="marched" category="VBN" />
+<VERB id="V2" spans="28~35" text="shouted" category="VBN" />
+<VERB id="V4" spans="57~59" text="be" category="VB" />
+<VERB id="V5" spans="84~88" text="said" category="VBD" />
+<VERB id="V6" spans="90~99" text="repeating" category="VBG" />
+<VERB id="V8" spans="135~139" text="been" category="VBN" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="marched" toID="V2" toText="shouted" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="marched" toID="V4" toText="be" />
+<EVENT_ORDER id="E11" fromID="V1" fromText="marched" toID="V5" toText="said" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="marched" toID="V6" toText="repeating" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="marched" toID="V8" toText="been" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="shouted" toID="V4" toText="be" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="shouted" toID="V5" toText="said" />
+<EVENT_ORDER id="E18" fromID="V2" fromText="shouted" toID="V6" toText="repeating" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="shouted" toID="V8" toText="been" />
+<EVENT_ORDER id="E26" fromID="V4" fromText="be" toID="V5" toText="said" />
+<EVENT_ORDER id="E27" fromID="V4" fromText="be" toID="V6" toText="repeating" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="be" toID="V8" toText="been" />
+<EVENT_ORDER id="E30" fromID="V5" fromText="said" toID="V6" toText="repeating" />
+<EVENT_ORDER id="E32" fromID="V5" fromText="said" toID="V8" toText="been" />
+<EVENT_ORDER id="E34" fromID="V6" fromText="repeating" toID="V8" toText="been" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Gaming out policy implications, let alone promising candidates, can be folly in volatile political times. After all, few in the party at the last convention could have ever imagined Mr. Trump emerging as their nominee in 2016. And should he fall short in November, his example may only inspire a cast of imitators four years from now.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~6" text="Gaming" category="VBG" />
+<VERB id="V2" spans="68~70" text="be" category="VB" />
+<VERB id="V4" spans="173~181" text="imagined" category="VBN" />
+<VERB id="V5" spans="192~200" text="emerging" category="VBG" />
+<VERB id="V6" spans="241~245" text="fall" category="VB" />
+<VERB id="V7" spans="286~293" text="inspire" category="VB" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Gaming" toID="V2" toText="be" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="Gaming" toID="V4" toText="imagined" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="Gaming" toID="V5" toText="emerging" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="Gaming" toID="V6" toText="fall" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="Gaming" toID="V7" toText="inspire" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="be" toID="V4" toText="imagined" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="be" toID="V5" toText="emerging" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="be" toID="V6" toText="fall" />
+<EVENT_ORDER id="E17" fromID="V2" fromText="be" toID="V7" toText="inspire" />
+<EVENT_ORDER id="E22" fromID="V4" fromText="imagined" toID="V5" toText="emerging" />
+<EVENT_ORDER id="E23" fromID="V4" fromText="imagined" toID="V6" toText="fall" />
+<EVENT_ORDER id="E24" fromID="V4" fromText="imagined" toID="V7" toText="inspire" />
+<EVENT_ORDER id="E25" fromID="V5" fromText="emerging" toID="V6" toText="fall" />
+<EVENT_ORDER id="E26" fromID="V5" fromText="emerging" toID="V7" toText="inspire" />
+<EVENT_ORDER id="E27" fromID="V6" fromText="fall" toID="V7" toText="inspire" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Under the new restrictions, restaurants, which were previously allowed to seat customers during the day at a safe distance from each other, will be allowed to stay open but provide only delivery and takeout services.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="63~70" text="allowed" category="VBN" />
+<VERB id="V2" spans="74~78" text="seat" category="VB" />
+<VERB id="V3" spans="148~155" text="allowed" category="VBN" />
+<VERB id="V4" spans="159~163" text="stay" category="VB" />
+<VERB id="V5" spans="173~180" text="provide" category="VB" />
+<EVENT_ORDER id="E5" fromID="V1" fromText="allowed" toID="V2" toText="seat" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="allowed" toID="V3" toText="allowed" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="allowed" toID="V4" toText="stay" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="allowed" toID="V5" toText="provide" />
+<EVENT_ORDER id="E9" fromID="V2" fromText="seat" toID="V3" toText="allowed" />
+<EVENT_ORDER id="E10" fromID="V2" fromText="seat" toID="V4" toText="stay" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="seat" toID="V5" toText="provide" />
+<EVENT_ORDER id="E12" fromID="V3" fromText="allowed" toID="V4" toText="stay" />
+<EVENT_ORDER id="E13" fromID="V3" fromText="allowed" toID="V5" toText="provide" />
+<EVENT_ORDER id="E14" fromID="V4" fromText="stay" toID="V5" toText="provide" />
+</TAGS>
+</TemporalRelationTask>

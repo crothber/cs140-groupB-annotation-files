@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Later as he entered Mr. Schumer’s Capitol office, Mr. Mnuchin said the two were “this close” to a deal, holding up two fingers with scarcely an inch of distance between them.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="12~19" text="entered" category="VBD" />
+<VERB id="V2" spans="62~66" text="said" category="VBD" />
+<VERB id="V3" spans="104~111" text="holding" category="VBG" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="entered" toID="V2" toText="said" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="entered" toID="V3" toText="holding" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="said" toID="V3" toText="holding" />
+</TAGS>
+</TemporalRelationTask>

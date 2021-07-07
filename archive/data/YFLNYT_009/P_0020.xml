@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Democrats are also pushing for more jobless aid and money for states as part of the agreement.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="19~26" text="pushing" category="VBG" />
+</TAGS>
+</TemporalRelationTask>

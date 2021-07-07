@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[President Trump has yet to nominate a new ambassador to replace John R. Bass, who left the embassy in Kabul in January. Instead, the State Department appointed a skilled but retired place-holder, Ross Wilson, to serve as the embassy’s chargé d’affaires.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="27~35" text="nominate" category="VB" />
+<VERB id="V2" spans="56~63" text="replace" category="VB" />
+<VERB id="V3" spans="82~86" text="left" category="VBD" />
+<VERB id="V4" spans="150~159" text="appointed" category="VBD" />
+<VERB id="V5" spans="212~217" text="serve" category="VB" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="nominate" toID="V2" toText="replace" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="nominate" toID="V3" toText="left" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="nominate" toID="V4" toText="appointed" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="nominate" toID="V5" toText="serve" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="replace" toID="V3" toText="left" />
+<EVENT_ORDER id="E12" fromID="V2" fromText="replace" toID="V4" toText="appointed" />
+<EVENT_ORDER id="E13" fromID="V2" fromText="replace" toID="V5" toText="serve" />
+<EVENT_ORDER id="E15" fromID="V3" fromText="left" toID="V4" toText="appointed" />
+<EVENT_ORDER id="E16" fromID="V3" fromText="left" toID="V5" toText="serve" />
+<EVENT_ORDER id="E18" fromID="V4" fromText="appointed" toID="V5" toText="serve" />
+</TAGS>
+</TemporalRelationTask>

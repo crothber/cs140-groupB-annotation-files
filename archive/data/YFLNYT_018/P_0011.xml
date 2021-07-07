@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Competing against the Democrats’ senior cohort is a large and relatively shapeless set of younger candidates who span the ideological spectrum: governors, senators, mayors, wealthy executives and even members of the House. They are animated by the president’s turbulent debut and the recent history, from Barack Obama’s victory in 2008 to Mr. Trump’s last year, of upstart candidates’ catching fire.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="0~9" text="Competing" category="VBG" />
+<VERB id="V1" spans="47~49" text="is" category="VBZ" />
+<VERB id="V2" spans="113~117" text="span" category="VBP" />
+<VERB id="V3" spans="232~240" text="animated" category="VBN" />
+<VERB id="V6" spans="385~393" text="catching" category="VBG" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="Competing" toID="V1" toText="is" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="Competing" toID="V2" toText="span" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="Competing" toID="V3" toText="animated" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="Competing" toID="V6" toText="catching" />
+<EVENT_ORDER id="E6" fromID="V1" fromText="is" toID="V2" toText="span" />
+<EVENT_ORDER id="E7" fromID="V1" fromText="is" toID="V3" toText="animated" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="is" toID="V6" toText="catching" />
+<EVENT_ORDER id="E11" fromID="V2" fromText="span" toID="V3" toText="animated" />
+<EVENT_ORDER id="E14" fromID="V2" fromText="span" toID="V6" toText="catching" />
+<EVENT_ORDER id="E17" fromID="V3" fromText="animated" toID="V6" toText="catching" />
+</TAGS>
+</TemporalRelationTask>

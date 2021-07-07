@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“He is counting on people being so traumatized on a day-to-day basis that they will forget his inaction,” said Douglas Brinkley, a professor of history at Rice University. “It’s better for him to be a wartime commander in chief than someone who, when the big crisis hit, misread it completely.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="7~15" text="counting" category="VBG" />
+<VERB id="V1" spans="26~31" text="being" category="VBG" />
+<VERB id="V2" spans="35~46" text="traumatized" category="VBN" />
+<VERB id="V3" spans="84~90" text="forget" category="VB" />
+<VERB id="V4" spans="106~110" text="said" category="VBD" />
+<VERB id="V7" spans="266~269" text="hit" category="VBD" />
+<VERB id="V8" spans="271~278" text="misread" category="VBD" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="counting" toID="V1" toText="being" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="counting" toID="V2" toText="traumatized" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="counting" toID="V3" toText="forget" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="counting" toID="V4" toText="said" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="counting" toID="V7" toText="hit" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="counting" toID="V8" toText="misread" />
+<EVENT_ORDER id="E8" fromID="V1" fromText="being" toID="V2" toText="traumatized" />
+<EVENT_ORDER id="E9" fromID="V1" fromText="being" toID="V3" toText="forget" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="being" toID="V4" toText="said" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="being" toID="V7" toText="hit" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="being" toID="V8" toText="misread" />
+<EVENT_ORDER id="E15" fromID="V2" fromText="traumatized" toID="V3" toText="forget" />
+<EVENT_ORDER id="E16" fromID="V2" fromText="traumatized" toID="V4" toText="said" />
+<EVENT_ORDER id="E19" fromID="V2" fromText="traumatized" toID="V7" toText="hit" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="traumatized" toID="V8" toText="misread" />
+<EVENT_ORDER id="E21" fromID="V3" fromText="forget" toID="V4" toText="said" />
+<EVENT_ORDER id="E24" fromID="V3" fromText="forget" toID="V7" toText="hit" />
+<EVENT_ORDER id="E25" fromID="V3" fromText="forget" toID="V8" toText="misread" />
+<EVENT_ORDER id="E28" fromID="V4" fromText="said" toID="V7" toText="hit" />
+<EVENT_ORDER id="E29" fromID="V4" fromText="said" toID="V8" toText="misread" />
+<EVENT_ORDER id="E35" fromID="V7" fromText="hit" toID="V8" toText="misread" />
+</TAGS>
+</TemporalRelationTask>

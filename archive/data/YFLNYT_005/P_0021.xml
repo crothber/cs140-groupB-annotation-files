@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“If it’s not broken, don’t fix it if it’s still performing,” he said.]]></TEXT>
+<TAGS>
+<VERB id="V2" spans="48~58" text="performing" category="VBG" />
+<VERB id="V3" spans="64~68" text="said" category="VBD" />
+<VERB id="V4" spans="27~30" text="fix" category="VB" />
+<EVENT_ORDER id="E5" fromID="V2" fromText="performing" toID="V3" toText="said" />
+</TAGS>
+</TemporalRelationTask>

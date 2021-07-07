@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[While Mr. Cuomo has never been accused of any wrongdoing, Mr. Bharara indicted the governor’s closest aide, Joseph Percoco, in the fall as part of a wide-ranging bribery and bid-rigging investigation. Mr. Cuomo has repeatedly described himself as shocked and heartbroken by Mr. Percoco’s alleged actions, but a conviction could reflect badly on the governor, as could Albany’s reputation for corrupt politics.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="31~38" text="accused" category="VBN" />
+<VERB id="V2" spans="70~78" text="indicted" category="VBD" />
+<VERB id="V5" spans="226~235" text="described" category="VBN" />
+<VERB id="V6" spans="247~254" text="shocked" category="VBN" />
+<VERB id="V7" spans="259~270" text="heartbroken" category="VBN" />
+<VERB id="V9" spans="328~335" text="reflect" category="VB" />
+<EVENT_ORDER id="E10" fromID="V1" fromText="accused" toID="V2" toText="indicted" />
+<EVENT_ORDER id="E13" fromID="V1" fromText="accused" toID="V5" toText="described" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="accused" toID="V6" toText="shocked" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="accused" toID="V7" toText="heartbroken" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="accused" toID="V9" toText="reflect" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="indicted" toID="V5" toText="described" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="indicted" toID="V6" toText="shocked" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="indicted" toID="V7" toText="heartbroken" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="indicted" toID="V9" toText="reflect" />
+<EVENT_ORDER id="E40" fromID="V5" fromText="described" toID="V6" toText="shocked" />
+<EVENT_ORDER id="E41" fromID="V5" fromText="described" toID="V7" toText="heartbroken" />
+<EVENT_ORDER id="E43" fromID="V5" fromText="described" toID="V9" toText="reflect" />
+<EVENT_ORDER id="E45" fromID="V6" fromText="shocked" toID="V7" toText="heartbroken" />
+<EVENT_ORDER id="E47" fromID="V6" fromText="shocked" toID="V9" toText="reflect" />
+<EVENT_ORDER id="E50" fromID="V7" fromText="heartbroken" toID="V9" toText="reflect" />
+</TAGS>
+</TemporalRelationTask>

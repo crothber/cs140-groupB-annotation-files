@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“It is ambitious enough to tackle the crisis,” Mr. Biden said. Noting his home state of Delaware is three feet above sea level and vulnerable to warming, he told Mr. Sanders, “I don’t need a lecture on what’s going to happen about rising seas.”]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="4~6" text="is" category="VBZ" />
+<VERB id="V1" spans="27~33" text="tackle" category="VB" />
+<VERB id="V2" spans="57~61" text="said" category="VBD" />
+<VERB id="V6" spans="157~161" text="told" category="VBD" />
+<VERB id="V8" spans="184~188" text="need" category="VB" />
+<VERB id="V11" spans="218~224" text="happen" category="VB" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="is" toID="V1" toText="tackle" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="is" toID="V2" toText="said" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="is" toID="V6" toText="told" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="is" toID="V8" toText="need" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="is" toID="V11" toText="happen" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="tackle" toID="V2" toText="said" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="tackle" toID="V6" toText="told" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="tackle" toID="V8" toText="need" />
+<EVENT_ORDER id="E21" fromID="V1" fromText="tackle" toID="V11" toText="happen" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="said" toID="V6" toText="told" />
+<EVENT_ORDER id="E28" fromID="V2" fromText="said" toID="V8" toText="need" />
+<EVENT_ORDER id="E31" fromID="V2" fromText="said" toID="V11" toText="happen" />
+<EVENT_ORDER id="E58" fromID="V6" fromText="told" toID="V8" toText="need" />
+<EVENT_ORDER id="E61" fromID="V6" fromText="told" toID="V11" toText="happen" />
+<EVENT_ORDER id="E70" fromID="V8" fromText="need" toID="V11" toText="happen" />
+</TAGS>
+</TemporalRelationTask>

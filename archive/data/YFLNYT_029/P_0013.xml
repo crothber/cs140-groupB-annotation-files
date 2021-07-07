@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[All but Mr. Sanders have since dropped out.]]></TEXT>
+<TAGS>
+<VERB id="V1" spans="31~38" text="dropped" category="VBN" />
+</TAGS>
+</TemporalRelationTask>

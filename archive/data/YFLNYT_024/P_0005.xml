@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[Among the complicating factors are the uncertain nature of the professional basketball season — the arena hosting the convention is home to the Milwaukee Bucks, a top N.B.A. team likely to play deep into the playoffs if the league’s season were to restart — and how the party’s delegates will be selected. Delegates in most states are elected to the national convention from state conventions, but many state conventions, scheduled for late spring and early summer, are also being postponed.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="31~34" text="are" category="VBP" />
+<VERB id="V1" spans="106~113" text="hosting" category="VBG" />
+<VERB id="V3" spans="189~193" text="play" category="VB" />
+<VERB id="V5" spans="248~255" text="restart" category="VB" />
+<VERB id="V6" spans="296~304" text="selected" category="VBN" />
+<VERB id="V7" spans="335~342" text="elected" category="VBN" />
+<VERB id="V8" spans="422~431" text="scheduled" category="VBN" />
+<VERB id="V9" spans="466~469" text="are" category="VBP" />
+<VERB id="V10" spans="475~480" text="being" category="VBG" />
+<VERB id="V11" spans="481~490" text="postponed" category="VBN" />
+<EVENT_ORDER id="E0" fromID="V0" fromText="are" toID="V1" toText="hosting" />
+<EVENT_ORDER id="E2" fromID="V0" fromText="are" toID="V3" toText="play" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="are" toID="V5" toText="restart" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="are" toID="V6" toText="selected" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="are" toID="V7" toText="elected" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="are" toID="V8" toText="scheduled" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="are" toID="V9" toText="are" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="are" toID="V10" toText="being" />
+<EVENT_ORDER id="E10" fromID="V0" fromText="are" toID="V11" toText="postponed" />
+<EVENT_ORDER id="E12" fromID="V1" fromText="hosting" toID="V3" toText="play" />
+<EVENT_ORDER id="E14" fromID="V1" fromText="hosting" toID="V5" toText="restart" />
+<EVENT_ORDER id="E15" fromID="V1" fromText="hosting" toID="V6" toText="selected" />
+<EVENT_ORDER id="E16" fromID="V1" fromText="hosting" toID="V7" toText="elected" />
+<EVENT_ORDER id="E17" fromID="V1" fromText="hosting" toID="V8" toText="scheduled" />
+<EVENT_ORDER id="E18" fromID="V1" fromText="hosting" toID="V9" toText="are" />
+<EVENT_ORDER id="E19" fromID="V1" fromText="hosting" toID="V10" toText="being" />
+<EVENT_ORDER id="E20" fromID="V1" fromText="hosting" toID="V11" toText="postponed" />
+<EVENT_ORDER id="E31" fromID="V3" fromText="play" toID="V5" toText="restart" />
+<EVENT_ORDER id="E32" fromID="V3" fromText="play" toID="V6" toText="selected" />
+<EVENT_ORDER id="E33" fromID="V3" fromText="play" toID="V7" toText="elected" />
+<EVENT_ORDER id="E34" fromID="V3" fromText="play" toID="V8" toText="scheduled" />
+<EVENT_ORDER id="E35" fromID="V3" fromText="play" toID="V9" toText="are" />
+<EVENT_ORDER id="E36" fromID="V3" fromText="play" toID="V10" toText="being" />
+<EVENT_ORDER id="E37" fromID="V3" fromText="play" toID="V11" toText="postponed" />
+<EVENT_ORDER id="E45" fromID="V5" fromText="restart" toID="V6" toText="selected" />
+<EVENT_ORDER id="E46" fromID="V5" fromText="restart" toID="V7" toText="elected" />
+<EVENT_ORDER id="E47" fromID="V5" fromText="restart" toID="V8" toText="scheduled" />
+<EVENT_ORDER id="E48" fromID="V5" fromText="restart" toID="V9" toText="are" />
+<EVENT_ORDER id="E49" fromID="V5" fromText="restart" toID="V10" toText="being" />
+<EVENT_ORDER id="E50" fromID="V5" fromText="restart" toID="V11" toText="postponed" />
+<EVENT_ORDER id="E51" fromID="V6" fromText="selected" toID="V7" toText="elected" />
+<EVENT_ORDER id="E52" fromID="V6" fromText="selected" toID="V8" toText="scheduled" />
+<EVENT_ORDER id="E53" fromID="V6" fromText="selected" toID="V9" toText="are" />
+<EVENT_ORDER id="E54" fromID="V6" fromText="selected" toID="V10" toText="being" />
+<EVENT_ORDER id="E55" fromID="V6" fromText="selected" toID="V11" toText="postponed" />
+<EVENT_ORDER id="E56" fromID="V7" fromText="elected" toID="V8" toText="scheduled" />
+<EVENT_ORDER id="E57" fromID="V7" fromText="elected" toID="V9" toText="are" />
+<EVENT_ORDER id="E58" fromID="V7" fromText="elected" toID="V10" toText="being" />
+<EVENT_ORDER id="E59" fromID="V7" fromText="elected" toID="V11" toText="postponed" />
+<EVENT_ORDER id="E60" fromID="V8" fromText="scheduled" toID="V9" toText="are" />
+<EVENT_ORDER id="E61" fromID="V8" fromText="scheduled" toID="V10" toText="being" />
+<EVENT_ORDER id="E62" fromID="V8" fromText="scheduled" toID="V11" toText="postponed" />
+<EVENT_ORDER id="E63" fromID="V9" fromText="are" toID="V10" toText="being" />
+<EVENT_ORDER id="E64" fromID="V9" fromText="are" toID="V11" toText="postponed" />
+<EVENT_ORDER id="E65" fromID="V10" fromText="being" toID="V11" toText="postponed" />
+</TAGS>
+</TemporalRelationTask>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<TemporalRelationTask>
+<TEXT><![CDATA[“Point of order! You are done. You’re done. You’re done. Disrespectful,” she said, marching out of the meeting and into a back room of City Hall. But social distance did nothing to slow the argument; it continued from two separate rooms as other commissioners sat quietly.]]></TEXT>
+<TAGS>
+<VERB id="V0" spans="25~29" text="done" category="VBN" />
+<VERB id="V2" spans="38~42" text="done" category="VBN" />
+<VERB id="V4" spans="51~55" text="done" category="VBN" />
+<VERB id="V5" spans="77~81" text="said" category="VBD" />
+<VERB id="V6" spans="83~91" text="marching" category="VBG" />
+<VERB id="V7" spans="166~169" text="did" category="VBD" />
+<VERB id="V8" spans="181~185" text="slow" category="VB" />
+<VERB id="V9" spans="203~212" text="continued" category="VBD" />
+<VERB id="V10" spans="260~263" text="sat" category="VBD" />
+<EVENT_ORDER id="E1" fromID="V0" fromText="done" toID="V2" toText="done" />
+<EVENT_ORDER id="E3" fromID="V0" fromText="done" toID="V4" toText="done" />
+<EVENT_ORDER id="E4" fromID="V0" fromText="done" toID="V5" toText="said" />
+<EVENT_ORDER id="E5" fromID="V0" fromText="done" toID="V6" toText="marching" />
+<EVENT_ORDER id="E6" fromID="V0" fromText="done" toID="V7" toText="did" />
+<EVENT_ORDER id="E7" fromID="V0" fromText="done" toID="V8" toText="slow" />
+<EVENT_ORDER id="E8" fromID="V0" fromText="done" toID="V9" toText="continued" />
+<EVENT_ORDER id="E9" fromID="V0" fromText="done" toID="V10" toText="sat" />
+<EVENT_ORDER id="E20" fromID="V2" fromText="done" toID="V4" toText="done" />
+<EVENT_ORDER id="E21" fromID="V2" fromText="done" toID="V5" toText="said" />
+<EVENT_ORDER id="E22" fromID="V2" fromText="done" toID="V6" toText="marching" />
+<EVENT_ORDER id="E23" fromID="V2" fromText="done" toID="V7" toText="did" />
+<EVENT_ORDER id="E24" fromID="V2" fromText="done" toID="V8" toText="slow" />
+<EVENT_ORDER id="E25" fromID="V2" fromText="done" toID="V9" toText="continued" />
+<EVENT_ORDER id="E26" fromID="V2" fromText="done" toID="V10" toText="sat" />
+<EVENT_ORDER id="E34" fromID="V4" fromText="done" toID="V5" toText="said" />
+<EVENT_ORDER id="E35" fromID="V4" fromText="done" toID="V6" toText="marching" />
+<EVENT_ORDER id="E36" fromID="V4" fromText="done" toID="V7" toText="did" />
+<EVENT_ORDER id="E37" fromID="V4" fromText="done" toID="V8" toText="slow" />
+<EVENT_ORDER id="E38" fromID="V4" fromText="done" toID="V9" toText="continued" />
+<EVENT_ORDER id="E39" fromID="V4" fromText="done" toID="V10" toText="sat" />
+<EVENT_ORDER id="E40" fromID="V5" fromText="said" toID="V6" toText="marching" />
+<EVENT_ORDER id="E41" fromID="V5" fromText="said" toID="V7" toText="did" />
+<EVENT_ORDER id="E42" fromID="V5" fromText="said" toID="V8" toText="slow" />
+<EVENT_ORDER id="E43" fromID="V5" fromText="said" toID="V9" toText="continued" />
+<EVENT_ORDER id="E44" fromID="V5" fromText="said" toID="V10" toText="sat" />
+<EVENT_ORDER id="E45" fromID="V6" fromText="marching" toID="V7" toText="did" />
+<EVENT_ORDER id="E46" fromID="V6" fromText="marching" toID="V8" toText="slow" />
+<EVENT_ORDER id="E47" fromID="V6" fromText="marching" toID="V9" toText="continued" />
+<EVENT_ORDER id="E48" fromID="V6" fromText="marching" toID="V10" toText="sat" />
+<EVENT_ORDER id="E49" fromID="V7" fromText="did" toID="V8" toText="slow" />
+<EVENT_ORDER id="E50" fromID="V7" fromText="did" toID="V9" toText="continued" />
+<EVENT_ORDER id="E51" fromID="V7" fromText="did" toID="V10" toText="sat" />
+<EVENT_ORDER id="E52" fromID="V8" fromText="slow" toID="V9" toText="continued" />
+<EVENT_ORDER id="E53" fromID="V8" fromText="slow" toID="V10" toText="sat" />
+<EVENT_ORDER id="E54" fromID="V9" fromText="continued" toID="V10" toText="sat" />
+</TAGS>
+</TemporalRelationTask>
